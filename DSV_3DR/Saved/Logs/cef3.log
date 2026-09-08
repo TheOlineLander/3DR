@@ -1,0 +1,9 @@
+[28256:8028:0908/110824.646:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28256:28548:0908/110824.677:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28256:8028:0908/110824.686:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8960:7604:0908/110826.545:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9217F2A9AA274B38C641854EEDE1CB5D will be ignored
+[28256:8028:0908/110829.781:ERROR:device_event_log_impl.cc(196)] [11:08:29.775] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28256:8028:0908/132035.938:ERROR:device_event_log_impl.cc(196)] [13:20:35.702] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[21320:26008:0908/152558.337:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-E8C04EFB9D5747F8A70A6555760672A0 will be ignored
+[11480:26944:0908/160937.158:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-51B967E975893DD62B2BD86CF421FC7C will be ignored
+[28256:8028:0908/161856.602:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
